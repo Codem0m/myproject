@@ -1,5 +1,6 @@
 body {
     background: lightgoldenrodyellow;
+    color: black;
 }
 h1 {
     color: blue;
@@ -11,5 +12,5 @@ p {
 }
 .purple {
     background-color: purple;
-    color:black;
+    color:white;
 }
