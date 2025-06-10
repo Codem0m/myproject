@@ -9,3 +9,7 @@ p {
     border: 3px solid black;
     border-radius: 15%;
 }
+.purple {
+    background-color: purple;
+    color:black;
+}
