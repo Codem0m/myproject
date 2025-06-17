@@ -14,3 +14,15 @@ p {
     background-color: purple;
     color:white;
 }
+.square {
+    width: 400px;
+    height: 400px;
+    background: pink;
+    border: hotpink;
+}
+.rectangel {
+    width: 600px;
+    height:200px;
+    background:gray;
+    border: black;
+}
