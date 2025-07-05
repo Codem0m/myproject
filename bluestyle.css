@@ -1,7 +1,9 @@
 body {
     background: lightgoldenrodyellow;
     color: black;
+    text-align: center;
 }
+
 h1 {
     color: blue;
 }
@@ -9,6 +11,17 @@ p {
     background: darkgoldenrod;
     border: 3px solid black;
     border-radius: 15%;
+}
+
+.shapes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.shapes p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .purple {
     background-color: purple;
@@ -20,16 +33,24 @@ p {
     background: pink;
     border: hotpink;
 }
-.rectangel {
+.rectangle {
     width: 600px;
     height:200px;
     background:gray;
     border: black;
 }
 .circle {
-    width: 700px;
-    height: 700px;
+    width: 450px;
+    height: 450px;
     background: olivedrab;
     border: darkgreen;
     border-radius: 50%;
+}
+.friends {
+    font-family: cursive;
+    font-size: 30px;
+}
+.butterfly {
+    font-family: fantasy;
+    font-size: 20px;
 }
